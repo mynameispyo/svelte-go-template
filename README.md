@@ -1,0 +1,1 @@
+### Go + Svelte + Tailwindcss web application template
